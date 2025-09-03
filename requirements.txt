@@ -1,0 +1,10 @@
+# YOLO-World / YOLOv8
+ultralytics>=8.2.0
+
+# Xử lý ảnh (Ultralytics sẽ tự cài, nhưng ghi rõ để tránh lỗi)
+opencv-python>=4.7.0
+pillow>=9.5.0
+
+# Tính toán
+torch>=2.0.0
+torchvision>=0.15.0
