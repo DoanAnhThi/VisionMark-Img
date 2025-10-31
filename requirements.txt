@@ -8,3 +8,8 @@ pillow>=9.5.0
 # Tính toán
 torch>=2.0.0
 torchvision>=0.15.0
+
+# REST API
+flask>=3.0.0
+requests>=2.31.0
+flasgger>=0.9.0
